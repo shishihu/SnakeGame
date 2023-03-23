@@ -1,5 +1,19 @@
 # SnakeGame
 
+#Shishi Notes
+cd C
+cd Users
+cd dongz
+cd OneDrive
+cd Desktop
+cd Snake\ Game/
+cd SnakeGame
+ng serve
+tab to autocomplete
+open http://localhost:4200/ in browser
+cd .. to back out of a directory
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
 ## Development server
